@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="slystuff.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bgWalls0000" x="0" y="0" width="3767" height="1775"/>
+	<SubTexture name="bgWalls20000" x="3767" y="0" width="3767" height="1775"/>
+	<SubTexture name="escalator0000" x="0" y="1775" width="3502" height="1775"/>
+	<SubTexture name="escalator20000" x="3502" y="1775" width="3502" height="1775"/>
+	<SubTexture name="fgSnow0000" x="0" y="3550" width="2984" height="504"/>
+	<SubTexture name="fgSnowreal0000" x="2984" y="3550" width="2984" height="504"/>
+</TextureAtlas>
